@@ -1,0 +1,18 @@
+
+#buttongroup{
+    text-align: end;
+}
+
+#border{
+    border: 2px solid black;
+    border-radius: 3%;
+}
+
+@media(max-width:575px){
+    #border{
+        border: none;
+    }
+    #logo-container {
+        text-align: center;
+    }
+}
