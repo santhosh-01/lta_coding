@@ -5,8 +5,7 @@
 
 #border{
     border: 2px solid black;
-    border-radius: 2%;
-}
+    border-radius: 5%;
 
 @media(max-width:575px){
     #border{
